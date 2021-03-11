@@ -12,7 +12,7 @@ It print  "hello world" or "hello"  + name of a person to greet
 
 ## `time`
 
-The time we greeted to you
+Show the time when we greeted to you
 
 ## Example usage
 
